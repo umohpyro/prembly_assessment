@@ -1,4 +1,4 @@
-name: Playwright Tests
+name: Prembly Assessment CI/CD
 on:
   push:
     branches: [ main, master ]
